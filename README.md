@@ -8,6 +8,7 @@ i have learned.
 - Searching algorithms
 - Sorting algorithms
 - Linked lists, stacks and queues
+- Tress,Graphs
 
 ##language
 C
