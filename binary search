@@ -16,7 +16,6 @@ int binarySearch(int a[], int n, int key) {
             high = mid - 1;
         }
     }
-
     return -1;
 }
 
